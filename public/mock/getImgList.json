@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "dataType": "mock",
+  "data": [{
+      "id": 1,
+      "src": "/mock/h5.jpg",
+      "title": "1.jpg",
+      "typeName": "基础图库A",
+      "type": "data-a",
+      "createDate": "1578917057952"
+    },
+    {
+      "id": 2,
+      "src": "/mock/h5.jpg",
+      "title": "2.jpg",
+      "typeName": "基础图库B",
+      "type": "data-b",
+      "createDate": "1578918057952"
+    },
+    {
+      "id": 3,
+      "src": "/mock/h5.jpg",
+      "title": "3.jpg",
+      "typeName": "基础图库C",
+      "type": "data-c",
+      "createDate": "1578917097952"
+    },
+    {
+      "id": 4,
+      "src": "/mock/h5.jpg",
+      "title": "4.jpg",
+      "typeName": "基础图库D",
+      "type": "data-d",
+      "createDate": "1578914057952"
+    },
+    {
+      "id": 5,
+      "src": "/mock/h5.jpg",
+      "title": "5.jpg",
+      "typeName": "基础图库D",
+      "type": "data-d",
+      "createDate": "1558914057952"
+    },
+    {
+      "id": 6,
+      "src": "/mock/h5.jpg",
+      "title": "6.jpg",
+      "typeName": "基础图库A",
+      "type": "data-a",
+      "createDate": "1478917057952"
+    },
+    {
+      "id": 7,
+      "src": "/mock/h5.jpg",
+      "title": "7.jpg",
+      "typeName": "基础图库B",
+      "type": "data-b",
+      "createDate": "1538918057952"
+    },
+    {
+      "id": 8,
+      "src": "/mock/h5.jpg",
+      "title": "8.jpg",
+      "typeName": "基础图库C",
+      "type": "data-c",
+      "createDate": "1518917097952"
+    },
+    {
+      "id": 9,
+      "src": "/mock/h5.jpg",
+      "title": "9.jpg",
+      "typeName": "基础图库D",
+      "type": "data-d",
+      "createDate": "1568914057952"
+    },
+    {
+      "id": 10,
+      "src": "/mock/h5.jpg",
+      "title": "10.jpg",
+      "typeName": "基础图库D",
+      "type": "data-d",
+      "createDate": "1528914057952"
+    }
+  ]
+}

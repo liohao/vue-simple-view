@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "dataType": "mock",
+  "data": [{
+      "title": "全部图片",
+      "type": "all"
+    }, {
+      "title": "基础图库A",
+      "type": "data-a"
+    },
+    {
+      "title": "基础图库B",
+      "type": "data-b"
+    },
+    {
+      "title": "基础图库C",
+      "type": "data-c"
+    },
+    {
+      "title": "基础图库D",
+      "type": "data-d"
+    },
+    {
+      "title": "基础图库E",
+      "type": "data-e"
+    }
+  ]
+}
