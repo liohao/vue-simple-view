@@ -1,18 +1,16 @@
 # vue-simple-view-temp
 
-## Project setup
+## Run Project
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 使用
 ```
-npm run build
+  排序：点击图片浏览区时间排序
+  更改分类：将右侧图片拖动至左侧菜单标题(标题会变大)
 ```
 
 ### Customize configuration
