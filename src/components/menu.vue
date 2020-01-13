@@ -45,7 +45,9 @@ export default {
       let ele = e.target
       ele.style.fontSize = '1em'
       let imgId = e.dataTransfer.getData('text/plain')
-      if (type !== 'all') {
+      if (type === 'all') {
+        alert('不能移动到此分类!')
+      } else {
         this.$emit('moveItem', imgId, type)
       }
     },
